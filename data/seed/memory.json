@@ -1,0 +1,20 @@
+[
+  {
+    "customer_id": "C001",
+    "kind": "interaction_summary",
+    "created_at": "2026-09-02",
+    "content": "Refunded Rs 899.00 for order 1012 (charger arrived damaged). Customer was polite."
+  },
+  {
+    "customer_id": "C001",
+    "kind": "interaction_summary",
+    "created_at": "2026-09-15",
+    "content": "Refunded Rs 1,249.00 for order 1025 (late delivery). Second refund this month."
+  },
+  {
+    "customer_id": "C004",
+    "kind": "note",
+    "created_at": "2026-08-18",
+    "content": "Prefers email over phone calls."
+  }
+]

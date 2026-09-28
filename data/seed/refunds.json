@@ -1,0 +1,14 @@
+[
+  {
+    "order_id": 1012,
+    "amount": "899.00",
+    "reason": "Charger arrived damaged",
+    "created_at": "2026-09-02"
+  },
+  {
+    "order_id": 1025,
+    "amount": "1249.00",
+    "reason": "Late delivery, customer refused item",
+    "created_at": "2026-09-15"
+  }
+]

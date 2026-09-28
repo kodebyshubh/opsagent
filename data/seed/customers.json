@@ -1,0 +1,130 @@
+[
+  {
+    "id": "C001",
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@example.com",
+    "phone": "+91-90000-00001",
+    "city": "Bengaluru",
+    "created_at": "2025-08-23"
+  },
+  {
+    "id": "C002",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "phone": "+91-90000-00002",
+    "city": "Pune",
+    "created_at": "2025-09-09"
+  },
+  {
+    "id": "C003",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@example.com",
+    "phone": "+91-90000-00003",
+    "city": "Chennai",
+    "created_at": "2025-09-26"
+  },
+  {
+    "id": "C004",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "phone": "+91-90000-00004",
+    "city": "Jaipur",
+    "created_at": "2025-10-13"
+  },
+  {
+    "id": "C005",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@example.com",
+    "phone": "+91-90000-00005",
+    "city": "Hyderabad",
+    "created_at": "2025-10-30"
+  },
+  {
+    "id": "C006",
+    "name": "Arjun Nair",
+    "email": "arjun.nair@example.com",
+    "phone": "+91-90000-00006",
+    "city": "Kochi",
+    "created_at": "2025-11-16"
+  },
+  {
+    "id": "C007",
+    "name": "Kavya Joshi",
+    "email": "kavya.joshi@example.com",
+    "phone": "+91-90000-00007",
+    "city": "Ahmedabad",
+    "created_at": "2025-12-03"
+  },
+  {
+    "id": "C008",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@example.com",
+    "phone": "+91-90000-00008",
+    "city": "Delhi",
+    "created_at": "2025-12-20"
+  },
+  {
+    "id": "C009",
+    "name": "Meera Pillai",
+    "email": "meera.pillai@example.com",
+    "phone": "+91-90000-00009",
+    "city": "Thiruvananthapuram",
+    "created_at": "2026-01-06"
+  },
+  {
+    "id": "C010",
+    "name": "Aditya Rao",
+    "email": "aditya.rao@example.com",
+    "phone": "+91-90000-00010",
+    "city": "Mysuru",
+    "created_at": "2026-01-23"
+  },
+  {
+    "id": "C011",
+    "name": "Ishaan Kapoor",
+    "email": "ishaan.kapoor@example.com",
+    "phone": "+91-90000-00011",
+    "city": "Chandigarh",
+    "created_at": "2026-02-09"
+  },
+  {
+    "id": "C012",
+    "name": "Neha Verma",
+    "email": "neha.verma@example.com",
+    "phone": "+91-90000-00012",
+    "city": "Lucknow",
+    "created_at": "2026-02-26"
+  },
+  {
+    "id": "C013",
+    "name": "Siddharth Menon",
+    "email": "siddharth.menon@example.com",
+    "phone": "+91-90000-00013",
+    "city": "Mumbai",
+    "created_at": "2026-03-15"
+  },
+  {
+    "id": "C014",
+    "name": "Pooja Desai",
+    "email": "pooja.desai@example.com",
+    "phone": "+91-90000-00014",
+    "city": "Surat",
+    "created_at": "2026-04-01"
+  },
+  {
+    "id": "C015",
+    "name": "Karan Malhotra",
+    "email": "karan.malhotra@example.com",
+    "phone": "+91-90000-00015",
+    "city": "Gurugram",
+    "created_at": "2026-04-18"
+  },
+  {
+    "id": "C016",
+    "name": "Riya Banerjee",
+    "email": "riya.banerjee@example.com",
+    "phone": "+91-90000-00016",
+    "city": "Kolkata",
+    "created_at": "2026-05-05"
+  }
+]

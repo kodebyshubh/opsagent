@@ -1,0 +1,36 @@
+flowchart TB
+    subgraph UI["Interfaces"]
+        CLI["CLI (Typer + Rich)"]
+        ST["Streamlit UI"]
+    end
+    CLI --> SVC
+    ST --> SVC
+    SVC["service.py<br/>start_run / submit_approval / submit_clarification"]
+    SVC --> LM
+
+    subgraph AGENT["LangGraph agent (state machine, SQLite checkpointer)"]
+        direction TB
+        LM["load_memory"] --> PL["plan<br/>(LLM: Plan JSON)"]
+        PL --> RT["retrieve<br/>parallel thread pool"]
+        RT --> RS["reason<br/>(LLM: Decision JSON)<br/>conflicts, reasoning, actions"]
+        RS -- "need more info (max 2 rounds)" --> RT
+        RS -- "ambiguous" --> CL["ask_clarification<br/>interrupt()"]
+        CL --> PL
+        RS -- "actions proposed" --> VA["validate<br/>schema, evidence refs,<br/>preconditions, risk tier"]
+        VA -- "invalid: 1 repair round" --> RS
+        VA -- "HIGH risk or low confidence" --> AP["approval<br/>interrupt() for human"]
+        VA -- "auto-approved" --> EX
+        AP --> EX["execute<br/>dependency + entity aware<br/>parallel groups, 1 txn each"]
+        RS -- "answer only" --> RP
+        EX --> RP["respond"] --> SM["save_memory"]
+    end
+
+    PL -.-> LLM[("Groq GPT-OSS 120B<br/>or Gemini")]
+    RS -.-> LLM
+    RT --> SQL[("SQLite<br/>orders, customers, inventory,<br/>refunds, tickets, memory")]
+    RT --> VEC[("ChromaDB<br/>policy documents<br/>with effective dates")]
+    RT --> JS[("catalog.json<br/>products, warranty,<br/>return rules")]
+    EX --> SQL
+    SM --> SQL
+    AGENT -. "every step" .-> AUD[("Audit log<br/>append-only")]
+    SVC --> REP["reports/&lt;run_id&gt;.json + .md"]

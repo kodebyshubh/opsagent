@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1001,
+    "customer_id": "C013",
+    "status": "delivered",
+    "order_date": "2026-08-20",
+    "delivered_date": "2026-08-23",
+    "refund_status": "none",
+    "total_amount": "12998.00",
+    "items": [
+      {
+        "sku": "SKU-HP-001",
+        "quantity": 2,
+        "unit_price": "6499.00"
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "customer_id": "C014",
+    "status": "delivered",
+    "order_date": "2026-07-11",
+    "delivered_date": "2026-07-13",
+    "refund_status": "none",
+    "total_amount": "450.50",
+    "items": [
+      {
+        "sku": "SKU-BK-018",
+        "quantity": 1,
+        "unit_price": "450.50"
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "customer_id": "C004",
+    "status": "delivered",
+    "order_date": "2026-07-09",
+    "delivered_date": "2026-07-12",
+    "refund_status": "none",
+    "total_amount": "1499.00",
+    "items": [
+      {
+        "sku": "SKU-BT-008",
+        "quantity": 2,
+        "unit_price": "749.50"
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "customer_id": "C014",
+    "status": "shipped",
+    "order_date": "2026-09-24",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "1949.50",
+    "items": [
+      {
+        "sku": "SKU-BT-008",
+        "quantity": 2,
+        "unit_price": "749.50"
+      },
+      {
+        "sku": "SKU-SC-015",
+        "quantity": 1,
+        "unit_price": "450.50"
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "customer_id": "C005",
+    "status": "delivered",
+    "order_date": "2026-08-12",
+    "delivered_date": "2026-08-17",
+    "refund_status": "none",
+    "total_amount": "4598.99",
+    "items": [
+      {
+        "sku": "SKU-SN-011",
+        "quantity": 1,
+        "unit_price": "3299.00"
+      },
+      {
+        "sku": "SKU-LM-009",
+        "quantity": 1,
+        "unit_price": "1299.99"
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "customer_id": "C004",
+    "status": "placed",
+    "order_date": "2026-08-22",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "2498.00",
+    "items": [
+      {
+        "sku": "SKU-KT-012",
+        "quantity": 2,
+        "unit_price": "1249.00"
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "customer_id": "C014",
+    "status": "delivered",
+    "order_date": "2026-07-16",
+    "delivered_date": "2026-07-20",
+    "refund_status": "none",
+    "total_amount": "1349.50",
+    "items": [
+      {
+        "sku": "SKU-BK-018",
+        "quantity": 1,
+        "unit_price": "450.50"
+      },
+      {
+        "sku": "SKU-CH-004",
+        "quantity": 1,
+        "unit_price": "899.00"
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "customer_id": "C012",
+    "status": "delivered",
+    "order_date": "2026-07-02",
+    "delivered_date": "2026-07-06",
+    "refund_status": "none",
+    "total_amount": "4999.00",
+    "items": [
+      {
+        "sku": "SKU-SW-003",
+        "quantity": 1,
+        "unit_price": "4999.00"
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "customer_id": "C004",
+    "status": "delivered",
+    "order_date": "2026-08-20",
+    "delivered_date": "2026-08-24",
+    "refund_status": "none",
+    "total_amount": "899.00",
+    "items": [
+      {
+        "sku": "SKU-CH-004",
+        "quantity": 1,
+        "unit_price": "899.00"
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "customer_id": "C005",
+    "status": "delivered",
+    "order_date": "2026-07-01",
+    "delivered_date": "2026-07-03",
+    "refund_status": "none",
+    "total_amount": "1249.00",
+    "items": [
+      {
+        "sku": "SKU-KT-012",
+        "quantity": 1,
+        "unit_price": "1249.00"
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "customer_id": "C012",
+    "status": "delivered",
+    "order_date": "2026-08-24",
+    "delivered_date": "2026-08-29",
+    "refund_status": "none",
+    "total_amount": "901.00",
+    "items": [
+      {
+        "sku": "SKU-BK-018",
+        "quantity": 2,
+        "unit_price": "450.50"
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "customer_id": "C001",
+    "status": "delivered",
+    "order_date": "2026-08-28",
+    "delivered_date": "2026-08-31",
+    "refund_status": "full",
+    "total_amount": "899.00",
+    "items": [
+      {
+        "sku": "SKU-CH-004",
+        "quantity": 1,
+        "unit_price": "899.00"
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "customer_id": "C007",
+    "status": "placed",
+    "order_date": "2026-08-26",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "3299.00",
+    "items": [
+      {
+        "sku": "SKU-SN-011",
+        "quantity": 1,
+        "unit_price": "3299.00"
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "customer_id": "C015",
+    "status": "delivered",
+    "order_date": "2026-09-16",
+    "delivered_date": "2026-09-20",
+    "refund_status": "none",
+    "total_amount": "1899.00",
+    "items": [
+      {
+        "sku": "SKU-BS-013",
+        "quantity": 1,
+        "unit_price": "1899.00"
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "customer_id": "C006",
+    "status": "delivered",
+    "order_date": "2026-09-07",
+    "delivered_date": "2026-09-11",
+    "refund_status": "none",
+    "total_amount": "2349.50",
+    "items": [
+      {
+        "sku": "SKU-BS-013",
+        "quantity": 1,
+        "unit_price": "1899.00"
+      },
+      {
+        "sku": "SKU-SC-015",
+        "quantity": 1,
+        "unit_price": "450.50"
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "customer_id": "C014",
+    "status": "delivered",
+    "order_date": "2026-09-07",
+    "delivered_date": "2026-09-09",
+    "refund_status": "none",
+    "total_amount": "2798.00",
+    "items": [
+      {
+        "sku": "SKU-MS-019",
+        "quantity": 1,
+        "unit_price": "899.00"
+      },
+      {
+        "sku": "SKU-BS-013",
+        "quantity": 1,
+        "unit_price": "1899.00"
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "customer_id": "C015",
+    "status": "delivered",
+    "order_date": "2026-07-06",
+    "delivered_date": "2026-07-11",
+    "refund_status": "none",
+    "total_amount": "899.00",
+    "items": [
+      {
+        "sku": "SKU-CH-004",
+        "quantity": 1,
+        "unit_price": "899.00"
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "customer_id": "C012",
+    "status": "cancelled",
+    "order_date": "2026-07-10",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "1899.00",
+    "items": [
+      {
+        "sku": "SKU-BS-013",
+        "quantity": 1,
+        "unit_price": "1899.00"
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "customer_id": "C011",
+    "status": "shipped",
+    "order_date": "2026-06-29",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "450.50",
+    "items": [
+      {
+        "sku": "SKU-BK-018",
+        "quantity": 1,
+        "unit_price": "450.50"
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "customer_id": "C013",
+    "status": "delivered",
+    "order_date": "2026-08-18",
+    "delivered_date": "2026-08-23",
+    "refund_status": "none",
+    "total_amount": "3299.00",
+    "items": [
+      {
+        "sku": "SKU-SN-011",
+        "quantity": 1,
+        "unit_price": "3299.00"
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "customer_id": "C003",
+    "status": "cancelled",
+    "order_date": "2026-07-22",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "1099.00",
+    "items": [
+      {
+        "sku": "SKU-CM-017",
+        "quantity": 1,
+        "unit_price": "1099.00"
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "customer_id": "C016",
+    "status": "delivered",
+    "order_date": "2026-08-30",
+    "delivered_date": "2026-09-02",
+    "refund_status": "none",
+    "total_amount": "2198.00",
+    "items": [
+      {
+        "sku": "SKU-CM-017",
+        "quantity": 2,
+        "unit_price": "1099.00"
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "customer_id": "C011",
+    "status": "delivered",
+    "order_date": "2026-07-24",
+    "delivered_date": "2026-07-28",
+    "refund_status": "none",
+    "total_amount": "1199.00",
+    "items": [
+      {
+        "sku": "SKU-YM-020",
+        "quantity": 1,
+        "unit_price": "1199.00"
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "customer_id": "C016",
+    "status": "placed",
+    "order_date": "2026-08-25",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "749.50",
+    "items": [
+      {
+        "sku": "SKU-BT-008",
+        "quantity": 1,
+        "unit_price": "749.50"
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "customer_id": "C001",
+    "status": "delivered",
+    "order_date": "2026-09-05",
+    "delivered_date": "2026-09-09",
+    "refund_status": "full",
+    "total_amount": "1249.00",
+    "items": [
+      {
+        "sku": "SKU-KT-012",
+        "quantity": 1,
+        "unit_price": "1249.00"
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "customer_id": "C004",
+    "status": "shipped",
+    "order_date": "2026-07-18",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "2499.00",
+    "items": [
+      {
+        "sku": "SKU-BG-016",
+        "quantity": 1,
+        "unit_price": "2499.00"
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "customer_id": "C005",
+    "status": "delivered",
+    "order_date": "2026-07-09",
+    "delivered_date": "2026-07-12",
+    "refund_status": "none",
+    "total_amount": "7448.50",
+    "items": [
+      {
+        "sku": "SKU-BK-018",
+        "quantity": 1,
+        "unit_price": "450.50"
+      },
+      {
+        "sku": "SKU-KB-006",
+        "quantity": 2,
+        "unit_price": "3499.00"
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "customer_id": "C011",
+    "status": "delivered",
+    "order_date": "2026-07-01",
+    "delivered_date": "2026-07-06",
+    "refund_status": "none",
+    "total_amount": "599.00",
+    "items": [
+      {
+        "sku": "SKU-TS-010",
+        "quantity": 1,
+        "unit_price": "599.00"
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "customer_id": "C005",
+    "status": "delivered",
+    "order_date": "2026-09-18",
+    "delivered_date": "2026-09-22",
+    "refund_status": "none",
+    "total_amount": "450.50",
+    "items": [
+      {
+        "sku": "SKU-BK-018",
+        "quantity": 1,
+        "unit_price": "450.50"
+      }
+    ]
+  },
+  {
+    "id": 1042,
+    "customer_id": "C001",
+    "status": "delivered",
+    "order_date": "2026-09-03",
+    "delivered_date": "2026-09-07",
+    "refund_status": "none",
+    "total_amount": "6499.00",
+    "items": [
+      {
+        "sku": "SKU-HP-001",
+        "quantity": 1,
+        "unit_price": "6499.00"
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "customer_id": "C003",
+    "status": "delivered",
+    "order_date": "2026-09-19",
+    "delivered_date": "2026-09-22",
+    "refund_status": "none",
+    "total_amount": "2999.00",
+    "items": [
+      {
+        "sku": "SKU-EB-007",
+        "quantity": 1,
+        "unit_price": "2999.00"
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "customer_id": "C004",
+    "status": "delivered",
+    "order_date": "2026-09-12",
+    "delivered_date": "2026-09-16",
+    "refund_status": "none",
+    "total_amount": "4498.00",
+    "items": [
+      {
+        "sku": "SKU-SN-011",
+        "quantity": 1,
+        "unit_price": "3299.00"
+      },
+      {
+        "sku": "SKU-YM-020",
+        "quantity": 1,
+        "unit_price": "1199.00"
+      }
+    ]
+  },
+  {
+    "id": 1051,
+    "customer_id": "C002",
+    "status": "placed",
+    "order_date": "2026-09-25",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "1299.99",
+    "items": [
+      {
+        "sku": "SKU-LM-009",
+        "quantity": 1,
+        "unit_price": "1299.99"
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "customer_id": "C010",
+    "status": "shipped",
+    "order_date": "2026-09-21",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "2499.00",
+    "items": [
+      {
+        "sku": "SKU-BG-016",
+        "quantity": 1,
+        "unit_price": "2499.00"
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "customer_id": "C002",
+    "status": "packed",
+    "order_date": "2026-09-24",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "3398.00",
+    "items": [
+      {
+        "sku": "SKU-BS-013",
+        "quantity": 1,
+        "unit_price": "1899.00"
+      },
+      {
+        "sku": "SKU-BT-008",
+        "quantity": 2,
+        "unit_price": "749.50"
+      }
+    ]
+  },
+  {
+    "id": 1077,
+    "customer_id": "C002",
+    "status": "placed",
+    "order_date": "2026-09-26",
+    "delivered_date": null,
+    "refund_status": "none",
+    "total_amount": "4999.00",
+    "items": [
+      {
+        "sku": "SKU-SW-003",
+        "quantity": 1,
+        "unit_price": "4999.00"
+      }
+    ]
+  }
+]

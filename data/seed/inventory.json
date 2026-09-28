@@ -1,0 +1,142 @@
+[
+  {
+    "sku": "SKU-HP-001",
+    "stock": 2,
+    "reorder_level": 5,
+    "warehouse": "PNQ-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-SP-002",
+    "stock": 25,
+    "reorder_level": 5,
+    "warehouse": "BLR-2",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-SW-003",
+    "stock": 1,
+    "reorder_level": 5,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-CH-004",
+    "stock": 60,
+    "reorder_level": 10,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-PB-005",
+    "stock": 30,
+    "reorder_level": 8,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-KB-006",
+    "stock": 12,
+    "reorder_level": 4,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-EB-007",
+    "stock": 18,
+    "reorder_level": 5,
+    "warehouse": "BLR-2",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-BT-008",
+    "stock": 80,
+    "reorder_level": 15,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-LM-009",
+    "stock": 22,
+    "reorder_level": 5,
+    "warehouse": "PNQ-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-TS-010",
+    "stock": 0,
+    "reorder_level": 20,
+    "warehouse": "PNQ-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-SN-011",
+    "stock": 14,
+    "reorder_level": 5,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-KT-012",
+    "stock": 26,
+    "reorder_level": 6,
+    "warehouse": "PNQ-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-BS-013",
+    "stock": 17,
+    "reorder_level": 5,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-SK-014",
+    "stock": 40,
+    "reorder_level": 10,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-SC-015",
+    "stock": 55,
+    "reorder_level": 10,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-BG-016",
+    "stock": 11,
+    "reorder_level": 4,
+    "warehouse": "PNQ-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-CM-017",
+    "stock": 9,
+    "reorder_level": 4,
+    "warehouse": "PNQ-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-BK-018",
+    "stock": 33,
+    "reorder_level": 8,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-MS-019",
+    "stock": 45,
+    "reorder_level": 10,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  },
+  {
+    "sku": "SKU-YM-020",
+    "stock": 20,
+    "reorder_level": 5,
+    "warehouse": "BLR-1",
+    "updated_at": "2026-09-24"
+  }
+]

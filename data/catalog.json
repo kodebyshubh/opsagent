@@ -1,0 +1,206 @@
+[
+  {
+    "sku": "SKU-HP-001",
+    "name": "SoundMax Pro Wireless Headphones",
+    "category": "electronics",
+    "price_paise": 649900,
+    "warranty_months": 12,
+    "returnable": true,
+    "vendor": "SoundMax Audio",
+    "description": "Over-ear wireless headphones with active noise cancellation and 40h battery."
+  },
+  {
+    "sku": "SKU-SP-002",
+    "name": "BassBox Mini Bluetooth Speaker",
+    "category": "electronics",
+    "price_paise": 219900,
+    "warranty_months": 12,
+    "returnable": true,
+    "vendor": "SoundMax Audio",
+    "description": "BassBox Mini Bluetooth Speaker by SoundMax Audio."
+  },
+  {
+    "sku": "SKU-SW-003",
+    "name": "FitPulse Smartwatch S2",
+    "category": "electronics",
+    "price_paise": 499900,
+    "warranty_months": 12,
+    "returnable": true,
+    "vendor": "FitPulse Wearables",
+    "description": "FitPulse Smartwatch S2 by FitPulse Wearables."
+  },
+  {
+    "sku": "SKU-CH-004",
+    "name": "VoltGo 33W Fast Charger",
+    "category": "electronics",
+    "price_paise": 89900,
+    "warranty_months": 6,
+    "returnable": true,
+    "vendor": "VoltGo",
+    "description": "VoltGo 33W Fast Charger by VoltGo."
+  },
+  {
+    "sku": "SKU-PB-005",
+    "name": "VoltGo 20000mAh Power Bank",
+    "category": "electronics",
+    "price_paise": 179900,
+    "warranty_months": 6,
+    "returnable": true,
+    "vendor": "VoltGo",
+    "description": "VoltGo 20000mAh Power Bank by VoltGo."
+  },
+  {
+    "sku": "SKU-KB-006",
+    "name": "TypeRight Mechanical Keyboard",
+    "category": "electronics",
+    "price_paise": 349900,
+    "warranty_months": 12,
+    "returnable": true,
+    "vendor": "TypeRight",
+    "description": "TypeRight Mechanical Keyboard by TypeRight."
+  },
+  {
+    "sku": "SKU-EB-007",
+    "name": "SoundMax Buds Air (in-ear)",
+    "category": "electronics",
+    "price_paise": 299900,
+    "warranty_months": 6,
+    "returnable": false,
+    "return_window_days": 0,
+    "vendor": "SoundMax Audio",
+    "description": "True wireless in-ear earbuds. Final sale for hygiene reasons once the seal is opened."
+  },
+  {
+    "sku": "SKU-BT-008",
+    "name": "HydroSteel Insulated Bottle 1L",
+    "category": "home",
+    "price_paise": 74950,
+    "warranty_months": 0,
+    "returnable": true,
+    "vendor": "HydroSteel",
+    "description": "HydroSteel Insulated Bottle 1L by HydroSteel."
+  },
+  {
+    "sku": "SKU-LM-009",
+    "name": "Lumo Desk Lamp LED",
+    "category": "home",
+    "price_paise": 129999,
+    "warranty_months": 12,
+    "returnable": true,
+    "vendor": "Lumo Living",
+    "description": "Lumo Desk Lamp LED by Lumo Living."
+  },
+  {
+    "sku": "SKU-TS-010",
+    "name": "Classic Cotton T-Shirt",
+    "category": "fashion",
+    "price_paise": 59900,
+    "warranty_months": 0,
+    "returnable": true,
+    "vendor": "Urban Thread",
+    "description": "Classic Cotton T-Shirt by Urban Thread."
+  },
+  {
+    "sku": "SKU-SN-011",
+    "name": "StrideLite Running Sneakers",
+    "category": "fashion",
+    "price_paise": 329900,
+    "warranty_months": 0,
+    "returnable": true,
+    "vendor": "StrideLite",
+    "description": "StrideLite Running Sneakers by StrideLite."
+  },
+  {
+    "sku": "SKU-KT-012",
+    "name": "Handloom Cotton Kurta",
+    "category": "fashion",
+    "price_paise": 124900,
+    "warranty_months": 0,
+    "returnable": true,
+    "vendor": "Urban Thread",
+    "description": "Handloom Cotton Kurta by Urban Thread."
+  },
+  {
+    "sku": "SKU-BS-013",
+    "name": "Percale Bedsheet Set (Queen)",
+    "category": "home",
+    "price_paise": 189900,
+    "warranty_months": 0,
+    "returnable": true,
+    "vendor": "Lumo Living",
+    "description": "Percale Bedsheet Set (Queen) by Lumo Living."
+  },
+  {
+    "sku": "SKU-SK-014",
+    "name": "Glow Vitamin C Serum 30ml",
+    "category": "beauty",
+    "price_paise": 69900,
+    "warranty_months": 0,
+    "returnable": false,
+    "return_window_days": 0,
+    "vendor": "GlowLab",
+    "description": "Face serum. Beauty items are non-returnable once opened."
+  },
+  {
+    "sku": "SKU-SC-015",
+    "name": "GlowLab Sunscreen SPF 50",
+    "category": "beauty",
+    "price_paise": 45050,
+    "warranty_months": 0,
+    "returnable": false,
+    "return_window_days": 0,
+    "vendor": "GlowLab",
+    "description": "Broad spectrum sunscreen. Non-returnable once opened."
+  },
+  {
+    "sku": "SKU-BG-016",
+    "name": "Trekker 30L Backpack",
+    "category": "fashion",
+    "price_paise": 249900,
+    "warranty_months": 6,
+    "returnable": true,
+    "vendor": "Trekker",
+    "description": "Trekker 30L Backpack by Trekker."
+  },
+  {
+    "sku": "SKU-CM-017",
+    "name": "BrewMate French Press",
+    "category": "home",
+    "price_paise": 109900,
+    "warranty_months": 6,
+    "returnable": true,
+    "vendor": "BrewMate",
+    "description": "BrewMate French Press by BrewMate."
+  },
+  {
+    "sku": "SKU-BK-018",
+    "name": "Atomic Habits (Paperback)",
+    "category": "books",
+    "price_paise": 45050,
+    "warranty_months": 0,
+    "returnable": true,
+    "return_window_days": 7,
+    "vendor": "Readers Hub",
+    "description": "Paperback book. 7-day replacement for printing defects only."
+  },
+  {
+    "sku": "SKU-MS-019",
+    "name": "ClickPro Wireless Mouse",
+    "category": "electronics",
+    "price_paise": 89900,
+    "warranty_months": 6,
+    "returnable": true,
+    "vendor": "TypeRight",
+    "description": "ClickPro Wireless Mouse by TypeRight."
+  },
+  {
+    "sku": "SKU-YM-020",
+    "name": "FlexFit Yoga Mat 6mm",
+    "category": "fitness",
+    "price_paise": 119900,
+    "warranty_months": 0,
+    "returnable": true,
+    "vendor": "FlexFit",
+    "description": "FlexFit Yoga Mat 6mm by FlexFit."
+  }
+]
